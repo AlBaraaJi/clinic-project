@@ -1,0 +1,150 @@
+/* .bg-img{
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+  filter: brightness(0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    margin: auto;
+  }
+  section img
+  {
+      width: 100px;
+      height: 100px;
+  }
+  .prem{
+    float: right;
+  }
+  a:hover {
+      text-decoration: none;
+  }
+  
+    .dc{
+      width: 100px;
+      height: 100px;
+    }
+  section h1 {
+    padding-top: 30px;
+  }
+  
+  .title{
+    padding-top: 40px;
+    width: 16%;
+    margin: auto;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
+  body{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Raleway', sans-serif;
+      background-color: #fff;
+  }
+  
+  ul{
+      list-style: none;
+  }
+  input,button,textarea{  
+  border: none;
+  outline: none;
+  }
+  nav{
+      display: flex;
+      justify-content: space-around;
+      left: 0;
+      top: 0;
+      width: 100%;
+      align-items: center;
+      z-index: 1;
+  }
+  .logo{
+      float: left;
+      width: 4em;
+      padding: 0;
+      margin-left: 0;
+      }
+     
+      nav ul{
+          display: flex;
+      }
+      nav ul li a{
+  height: 40px;
+  line-height: 43px;
+  margin: 3px;
+  padding: 0 22px;
+  display: flex;
+  font-size: 0.73rem;
+  text-transform: uppercase;
+  font-weight: 500; 
+  letter-spacing: 1px;
+  border-radius: 3px;
+  transition-timing-function: 0.6 ease-in-out;
+  color: #000000;
+      }
+      nav ul li a:hover{
+  background-color: rgb(87, 190, 238);
+  color: #fff;
+  box-shadow: 5px 10px 30px rgba(15, 42, 73, 0.397);
+  
+      }
+      a:hover:active{
+          background-color: rgb(87, 190, 238);
+          color: #fff;
+          box-shadow: 5px 10px 30px rgba(15, 42, 73, 0.397);
+      }
+      .main{
+          width: 100%;
+          height: 830px;
+          position: relative;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-image: url(../images/wallpaperflare-cropped\ \(2\).jpg)  ;
+      }
+  .mainheader{
+      width: 500px;
+      position: absolute;
+      left:16%;
+      top:47%;
+      transform: translate(-16%,-47%);
+  }
+    a{
+      text-decoration: none;
+    }
+  .mainheader h1{
+  font-size: 45px;
+  margin: 0;
+  letter-spacing: 3px;
+  color: #000000;
+  }
+  .mainheader p{
+      color: #050505;
+  }
+  .mainbtn{
+      width: 120px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 10px;
+      background-color: rgb(87, 190, 238);
+      color: #fff;
+      transition: 0.6s ease-in-out;
+      
+  }
+  
+  .mainbtn:hover{
+      box-shadow: 5px 10px 30px rgba(252, 59, 0, 0.397);
+  }
+  
+  
+  

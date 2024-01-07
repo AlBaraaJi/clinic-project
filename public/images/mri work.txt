@@ -1,0 +1,12 @@
+How does MRI work? MRIs employ powerful magnets which produce a strong magnetic field that forces protons in the body to align with that field. When a radiofrequency current is then pulsed through the patient, the protons are stimulated, and spin out of equilibrium, straining against the pull of the magnetic field.
+
+The following are examples in which an MRI scanner would be used:
+
+anomalies of the brain and spinal cord
+tumors, cysts, and other anomalies in various parts of the body
+breast cancer screening for women who face a high risk of breast cancer
+injuries or abnormalities of the joints, such as the back and knee
+certain types of heart problems
+diseases of the liver and other abdominal organs
+the evaluation of pelvic pain in women, with causes including fibroids and endometriosis
+suspected uterine anomalies in women undergoing evaluation for infertility
